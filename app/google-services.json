@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050943160481",
+    "project_id": "nodemcucommunication-c9a4c",
+    "storage_bucket": "nodemcucommunication-c9a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050943160481:android:12bce37e82b5663e7070e0",
+        "android_client_info": {
+          "package_name": "com.example.nodemcucommunication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050943160481-he9t2ume9bgiq2j5rq06gi433am9kf9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkykkm3QMoCIWyHRzSEvXxOlmmSXu2EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050943160481-he9t2ume9bgiq2j5rq06gi433am9kf9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
